@@ -1,4 +1,3 @@
-I will generate a README.md file based on the provided Jupyter notebook content.
 
 # Brain Tumour Detection Using Deep Learning
 
